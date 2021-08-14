@@ -1,1 +1,2 @@
-# Stellar-5
+# Stellar-app
+project app
